@@ -1,7 +1,9 @@
 ---
 title: "Semper Exploro...."
 date: 2020-06-27T01:55:22+02:00
-draft: true
+draft: false
+description: "First post onblog  www.mto.nu"
+keywords: "Welcome, mto.nu, semper exploro"
 ---
 
 Semper exploro **("I am always exploring")** is the motto of this personal blog. 
