@@ -1,4 +1,4 @@
-baseURL = "http://www.mto.nu/"
+baseURL = "https://mto79.github.io/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "mto.nu"
@@ -12,6 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX
+publishDir = "mto79.github.io"
 
 [Params]
   homeTitle = "Blog"
