@@ -1,8 +1,8 @@
 ---
 title: "Semper Exploro...."
-date: 2020-06-27T01:55:22+02:00
+date: 2020-10-19T01:55:22+02:00
 draft: false
-description: "First post onblog  www.mto.nu"
+description: "First post on blog www.mto.nu"
 keywords: "Welcome, mto.nu, semper exploro"
 ---
 
