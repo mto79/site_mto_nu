@@ -1,7 +1,7 @@
 ---
 title: "Installing Fedora CoreOS with K3s on Hetzner Cloud"
-date: 2021-05-16T01:55:22+02:00
-draft: false
+date: 2021-05-16T01:54:22+02:00
+draft: true
 description: "Installing Fedora CoreOS on Hetzner Cloud"
 keywords: "Fedora, CoreOS, Hetzner, Cloud Server"
 ---
